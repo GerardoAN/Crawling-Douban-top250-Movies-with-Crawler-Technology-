@@ -1,7 +1,6 @@
 # Crawling-Douban-top250-Movies-with-Crawler-Technology-
 Crawling web pages with crawler technology
 Douban movie Top250 reptile
-https://img.shields.io/github/license/%E4%BD%A0%E7%9A%84%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BB%93%E5%BA%93%E5%90%8D
 
 This is a Python-based web crawler, which is used to capture the complete list of movie names in the Top250 list of Douban movies. Through paging request and HTML parsing, the current list data can be obtained stably.
 
